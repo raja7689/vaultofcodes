@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.card-container1 {
+    background-color: #323f4b;
+    border-radius: 8px;
+    height: 160px;
+    width: 180px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 15px;
+
+
+}
+
+
+
+.btm-container1 {
+    background-color: #1f2933;
+    height: 90vh;
+    font-family: Roboto;
+
+}
+
+
+.bg-container1 {
+    background-color: #323f4b;
+    height: 160vh;
+    font-family: Roboto;
+}
+
+.side-heading1 {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.heading1 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.image1 {
+    height: 380px;
+    width: 350px;
+}
+
+.desc1 {
+    font-size: 18px;
+    color: #9aa5b1;
+    margin-top: 20px;
+}
+
+.image12 {
+    height: 90px;
+    width: 90px;
+}
+
+
+
+.bg-container2 {
+    background-color: #3e4c59;
+    font-family: Roboto;
+    height: 180vh;
+}
+
+.side-heading2 {
+    color: #cced00;
+    font-size: 22px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.Projects2 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.card-container2 {
+    border-radius: 8px;
+    margin-top: 15px;
+    background-color: #323f4b;
+
+
+
+}
+
+.image2 {
+    height: 220px;
+
+}
+
+.card-btm2 {
+    background-color: #323f4b;
+    padding: 15px;
+}
+
+.card-side2 {
+    color: #9aa5b1;
+    font-size: 16px;
+}
+
+.card-head2 {
+    color: white;
+    font-size: 30px;
+    font-weight: normal;
+
+}
+
+.desc2 {
+    color: #9aa5b1;
+    font-size: 20px;
+
+
+}
+
+.hyper2 {
+    font-size: 18px;
+    color: #cced00;
+}
+
+
+
+.bg-container3 {
+    background-color: #3e4c59;
+    font-family: Roboto;
+    height: 220vh;
+}
+
+.side-heading3 {
+    color: #cced00;
+    font-size: 22px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.Projects3 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.card-container3 {
+    border-radius: 8px;
+    margin-top: 15px;
+    background-color: #323f4b;
+    padding: 30px;
+
+
+
+}
+
+.image3 {
+    height: 60px;
+
+}
+
+.card-btm3 {
+    background-color: #323f4b;
+    margin-top: 10px;
+}
+
+.card-side3 {
+    color: #9aa5b1;
+    font-size: 16px;
+}
+
+.card-head3 {
+    color: white;
+    font-size: 30px;
+    font-weight: normal;
+
+}
+
+.desc3 {
+    color: #9aa5b1;
+    font-size: 20px;
+
+
+}
+
+.hyper3 {
+    font-size: 18px;
+    color: #cced00;
+}
