@@ -1,0 +1,13 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
