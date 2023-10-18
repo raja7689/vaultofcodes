@@ -1,0 +1,18 @@
+.container {
+width: 50%;
+margin-left: 25vw;
+margin-top: 18vh;
+background-color: #f0f0f0;
+padding: 20px;
+
+}
+.box {
+width: 100px;
+height: 100px;
+margin-top: 10px;
+margin-left: 19vw;
+background-color: #007bff;
+color: #ffffff;
+text-align: center;
+line-height: 100px;
+}
