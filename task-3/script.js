@@ -13,9 +13,9 @@ function checkPasswordStrength(password) {
         strong: 2
     };
 
-    if (password.length < 8) {
+    if (password.length < 5) {
         return 'Weak';
-    } else if (password.length < 12) {
+    } else if (password.length < 8) {
         return 'Medium';
     } else {
         return 'Strong';
